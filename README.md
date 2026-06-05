@@ -2,7 +2,7 @@
 
 This repo was created as a first project. The goal is to learn the ropes with Git and GitHub. All future laborations will be part of this repository as well as code-alongs for the continuation of the course. 
 
-**Repository:** python-programming-ANDERS-SANDERLI  
+**Repository:** python-programming
 **GitHub account:** [AlbotGoodman](https://github.com/AlbotGoodman)  
 **Author:** Anders Sanderli  
 **School:** [IT-Högskolan](https://www.iths.se/)  
